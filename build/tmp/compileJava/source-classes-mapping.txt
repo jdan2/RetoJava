@@ -6,3 +6,5 @@ co/com/sofka/reto/punto3/Punto3.java
  co.com.sofka.reto.punto3.Punto3
 co/com/sofka/reto/punto4/Punto4.java
  co.com.sofka.reto.punto4.Punto4
+co/com/sofka/reto/punto5/Punto5.java
+ co.com.sofka.reto.punto5.Punto5

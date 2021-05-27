@@ -1,2 +1,4 @@
 co/com/sofka/reto/punto1/Punto1.java
  co.com.sofka.reto.punto1.Punto1
+co/com/sofka/reto/punto2/Punto2.java
+ co.com.sofka.reto.punto2.Punto2

@@ -28,3 +28,7 @@ co/com/sofka/reto/punto14/Punto14.java
  co.com.sofka.reto.punto14.Punto14
 co/com/sofka/reto/punto15/Punto15.java
  co.com.sofka.reto.punto15.Punto15
+co/com/sofka/reto/punto16/Main.java
+ co.com.sofka.reto.punto16.Main
+co/com/sofka/reto/punto16/Persona.java
+ co.com.sofka.reto.punto16.Persona

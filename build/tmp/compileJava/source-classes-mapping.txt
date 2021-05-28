@@ -22,3 +22,5 @@ co/com/sofka/reto/punto4/Punto4.java
  co.com.sofka.reto.punto4.Punto4
 co/com/sofka/reto/punto12/Punto12.java
  co.com.sofka.reto.punto12.Punto12
+co/com/sofka/reto/punto13/Punto13.java
+ co.com.sofka.reto.punto13.Punto13

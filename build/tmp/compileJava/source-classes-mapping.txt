@@ -32,3 +32,11 @@ co/com/sofka/reto/punto16/Main.java
  co.com.sofka.reto.punto16.Main
 co/com/sofka/reto/punto16/Persona.java
  co.com.sofka.reto.punto16.Persona
+co/com/sofka/reto/punto17/Lavadora.java
+ co.com.sofka.reto.punto17.Lavadora
+co/com/sofka/reto/punto17/Television.java
+ co.com.sofka.reto.punto17.Television
+co/com/sofka/reto/punto17/Electrodomesticos.java
+ co.com.sofka.reto.punto17.Electrodomesticos
+co/com/sofka/reto/punto17/Main.java
+ co.com.sofka.reto.punto17.Main

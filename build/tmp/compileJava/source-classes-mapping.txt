@@ -40,3 +40,11 @@ co/com/sofka/reto/punto17/Electrodomesticos.java
  co.com.sofka.reto.punto17.Electrodomesticos
 co/com/sofka/reto/punto17/Main.java
  co.com.sofka.reto.punto17.Main
+co/com/sofka/reto/punto18/Entregable.java
+ co.com.sofka.reto.punto18.Entregable
+co/com/sofka/reto/punto18/VideoJuego.java
+ co.com.sofka.reto.punto18.VideoJuego
+co/com/sofka/reto/punto18/Serie.java
+ co.com.sofka.reto.punto18.Serie
+co/com/sofka/reto/punto18/Main.java
+ co.com.sofka.reto.punto18.Main
